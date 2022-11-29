@@ -1,0 +1,58 @@
+... 
+ASSIGNMENT 1 
+
+Group A: 
+Make Flowchart and program for the following: 
+1. Print ASCII Value of the Character [5 marks) 
+2. Find result of quadratic equation.  [5 marks] 
+3. A company pays its employee on hourly basis. If an employee works for 8 hours,gets    Rs.100/hour and Rs.120/hour for additional hours. Read the   working hour from the user and calculate the total salary. [5 marks)
+4. Program to Check Character Is Uppercase, Lowercase Alphabet or a Digit or a Special Symbol ES marks)
+5. Program to ask user 5 subjects marks and calculate total, percentage, result and Grade. Result and grade conditions given below. [10 marks] 
+  RESULT: 
+   if marks is below 35 display FAIL otherwise PASS 
+GRADE:
+ • If percentage is 90-100 then Grade A
+ • If percentage is 75-89 then Grade B
+ • If percentage is 60-74 then Grade C
+ • If percentage is 35-59 then Grade D
+ • Othen.vise Grade F 
+6. Find the Nurnber Is Armstrong or Not Using While Loop [Exarnple: 371 is Armstrong number if 3, 7, 13=. 371) 15 marks)
+7. Number Is a Palindrome or Not [ Exarnple number read frorn both side and are equal then its palindrome. 121 is palindrome] [5 marks) 8. Find sum of series.: [15 marks) 
+a. 1+3+7+,5+ + nth terms 
+b. 1 - 1/2 + 1/3 - 1/4 + ........ nth terms 
+c. x + ,/2 + x3/3 + nth terms 
+
+9. Display prime number from 1-100 [5 marks) 10. Display the pattern: [10 marks] 
+10 make a pattern
+a
+*****
+****
+***
+**
+*
+b NNNNNNNNN
+   NNNNNNN
+    NNNNN
+     NNN
+      N
+      
+      
+      
+ 
+ Group B: 
+Write a program for the following: 
+1. Make a menu driven program for the following : [15 marks]
+ a. Calculate area of circle 
+b. Calculate area of rectangle
+ c. Calculate area of triangle 
+d. Calculate area of square 
+e. Exit 
+2. Ask user to enter a number and make menu driven program to do the following [15 marks]
+ a. Display reverse number
+ b. Count number of digits
+ c. Sum of digits 
+d. Find Even or odd 
+e. Exit 
+ 
+
+
